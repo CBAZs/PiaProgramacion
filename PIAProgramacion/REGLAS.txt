@@ -1,0 +1,15 @@
+#funcion con PS o bash
+#Funcion que dependa de los resultados de otra
+#que tenga 5 funciones
+#con parametros
+#REGISTRAR ERRORES usando LOGGIN
+#Publicar en github
+#Script con api
+#MODULO QUE NO HAYAMOS VISTO
+#Parametros obligatorios y opcionales
+#documentacion con Sphinx
+
+
+_#OPCIONES PARA CUANDO YA ESTÉ TERMINADO_
+-output en xlsx txt o pdf
+-que el ouput se mande a correo o SMS
