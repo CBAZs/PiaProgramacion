@@ -1,0 +1,5 @@
+Pillow==9.2.0
+pyhunter==1.7
+requests==2.27.1
+virustotal-api==1.1.11
+argparse==1.4.0
