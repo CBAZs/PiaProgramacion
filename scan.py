@@ -5,9 +5,8 @@ import sys
 def ejecutar(ip, first, last):
 
 	global files
-	sh = open("ports.sh", "r")
-	read_sh = sh.read()
-	files = subprocess.run([read_sh, ip, first, last], capture_output=True, text=True)
+	ports = "ports.sh"
+	files = subprocess.run([ports, ip, first, last], capture_output=True, text=True)
 	print(files.stdout, end="")
 
 def txt():
