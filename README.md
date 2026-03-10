@@ -1,2 +1,2 @@
 # PiaProgramacion
-que haces auqi
+Verifica las versiones de las librerías en requeriments.txt
